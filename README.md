@@ -21,6 +21,7 @@ This repository contains a full-fledged Java application that integrates with th
 ### Installation
 
    [KeyAuth GitHub Repository](https://github.com/KeyAuth)
+   [C++ shared library login](https://github.com/ExploitTheLoop/LibKeyAuth)
 
 
 1. **Clone the repository:**
